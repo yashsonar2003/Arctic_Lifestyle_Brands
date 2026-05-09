@@ -11,7 +11,7 @@ https://public.tableau.com/views/ArcticLifestyleBrandsConsumerBehaviourAnalysis/
 
 # Business Insights & Strategic Recommendations:-
 
-### Revenue Insights:
+### Revenue Insights:-
 1. **Gender Performance**: Male customers are the primary revenue drivers, contributing $157,890, which is more than double the revenue from female customers $75,191.
 2. **Demographic Contribution**: The Young Adult age group is the most profitable segment, generating $62,143 in total revenue.
 3. **Category Leaders**: Clothing is the highest revenue-generating category, bringing in $104.3K, followed by Accessories at $74.2K.
@@ -46,7 +46,7 @@ https://public.tableau.com/views/ArcticLifestyleBrandsConsumerBehaviourAnalysis/
 -----
 
 ### Strategic Recommendations:-
-1. **Enhance Subscription Value**:: Introduce exclusive member-only benefits to transition the high volume of non-subscribing repeat buyers into recurring revenue streams.
+1. **Enhance Subscription Value**: Introduce exclusive member-only benefits to transition the high volume of non-subscribing repeat buyers into recurring revenue streams.
 2. **Precision Marketing**: Direct marketing spend toward the Young Adult demographic and promote Express shipping as a premium convenience to high-value users.
 3. **Optimize Discount Strategy**: Shift away from broad discounts on high-demand items; instead, use targeted promotions to drive volume without compromising overall margins.
 4. **Elevate Hero Products**: Feature top-rated items like Gloves and Sandals in upcoming marketing campaigns to capitalize on proven customer satisfaction.
@@ -54,9 +54,9 @@ https://public.tableau.com/views/ArcticLifestyleBrandsConsumerBehaviourAnalysis/
 -----
 
 ### Expected Business Impact:-
-1. **:Increased Retention**:: Transitioning more users into the "Loyal" and "Subscriber" segments will drive long-term Customer Lifetime Value (CLV).
-2. **:Improved Margins**:: A refined promotional strategy will help protect profits on high-volume items.
-3. **:Revenue Growth**:: Targeted demographic marketing is expected to maximize returns from the most profitable customer groups.
+1. **:Increased Retention**: Transitioning more users into the "Loyal" and "Subscriber" segments will drive long-term Customer Lifetime Value (CLV).
+2. **:Improved Margins**: A refined promotional strategy will help protect profits on high-volume items.
+3. **:Revenue Growth**: Targeted demographic marketing is expected to maximize returns from the most profitable customer groups.
 
 -----
 
