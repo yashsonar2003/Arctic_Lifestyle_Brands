@@ -93,13 +93,6 @@ The dataset consists of 3900 records with 19 structured columns.
 
 -----
 
-### Key Outcome:-
-- This project successfully demonstrates:
-  - End-to-End Business Analytics Workflow.
-  - Strong forecasting and visualization capabilities.
- 
------
-
 ### Author:-
 Yash Sonar
 BBA Student | Aspiring Data Analyst
