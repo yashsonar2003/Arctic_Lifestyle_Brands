@@ -1,6 +1,6 @@
 # Arctic Consumer Behaviour Analysis
 
-# Company Name: Arctic Lifestyle Brand
+# Company Name: Arctic Lifestyle Pvt. Ltd.
 
 -----
 
