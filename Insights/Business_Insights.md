@@ -32,7 +32,7 @@ https://public.tableau.com/views/ArcticLifestyleBrandsConsumerBehaviourAnalysis/
 -----
 
 ### Product & Pricing Behavior Insights:-
-1. **Discount Sensitivity**: Certain items are highly dependent on promotions; notably, 50% of Hats and nearly 50% of Sneakers are purchased with a discount.
+1. **Discount Sensitivity**: Certain items are highly dependent on promotions; notably, 50% of Hats and nearly 50% of Footwears are purchased with a discount.
 2. **Top Rated Products**: Gloves 3.86 and Sandals 3.84 are the highest-rated items, suggesting strong product-market fit for these specific goods.
 3. **Spending Drivers**: High-spending discount users were identified as those who utilize promos but still maintain purchase amounts above the company average.
 
@@ -41,7 +41,7 @@ https://public.tableau.com/views/ArcticLifestyleBrandsConsumerBehaviourAnalysis/
 ### Business Challenges Identified:-
 1. **Subscription Gap**: Despite a loyal customer base, the conversion rate to the subscription model remains low.
 2. **Revenue Imbalance**: There is a significant reliance on the Male and Young Adult segments, leaving other demographics underutilized.
-3. **Profit Margin Risk**: High discount dependency on "Hero" products like Sneakers and Hats could potentially erode profit margins if not optimized.
+3. **Profit Margin Risk**: High discount dependency on "Hero" products like Footwears and Hats could potentially erode profit margins if not optimized.
 
 -----
 
